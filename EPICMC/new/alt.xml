@@ -8,32 +8,32 @@
 
 <!-- Repo Information -->
 <repo_icon>https://pbs.twimg.com/profile_images/633111487834386432/KNdfJgyr_400x400.jpg</repo_icon>
-<repo_name>New Repos</repo_name>
-<repo_description>Newest created repos on the AltStore!</repo_description>
-<repo_homepage>https://alt.epicmc.us/new</repo_homepage>
+<repo_name>ItzBulkDev</repo_name>
+<repo_description>Awesome content for developers and more!</repo_description>
+<repo_homepage>https://twitter.com/ItzBulkDev</repo_homepage>
 <!-- Repo Information End -->
 
  <package_updated>2015-08-21</package_updated>
- <package_name>InfiniteDev</package_name>
- <package_author>Providing you with content that...</package_author>
- <package_icon>https://pbs.twimg.com/profile_images/620563629067345920/U3hpqmUR_bigger.jpg</package_icon>
- <package_version>New</package_version>
- <package_platform>AltStore</package_platform>
- <package_category>New</package_category>
- <package_description>Providing you with content that is essential if you are an iOS User. iOS SDK and Web Developers should install content from this repo.</package_description>
- <package_get>https://alt.epicmc.us/infinitedev</package_get>
+ <package_name>SoundMIX</package_name>
+ <package_author>@ItzBulkDev</package_author>
+ <package_icon>http://thumbs.dreamstime.com/t/abstract-music-equalizer-eps-color-round-steel-buttons-38861819.jpg</package_icon>
+ <package_version>1.0.2 Public Beta</package_version>
+ <package_platform>PocketMine-MP (API 1.12.0)</package_platform>
+ <package_category>Server Plugin</package_category>
+ <package_description>Play sounds with commands!.</package_description>
+ <package_get>https://github.com/LegacyDevelopers/SoundMIX/releases/download/1.0.2/phar_SoundMIX-master.1._awFwCz1VvY6wLJH.phar</package_get>
 
 </item>
 <item>
  <package_updated>2015-08-21</package_updated>
- <package_name>ItzBulkDev</package_name>
- <package_author>Awesome content for developers and more!</package_author>
- <package_icon>https://pbs.twimg.com/profile_images/633111487834386432/KNdfJgyr_400x400.jpg</package_icon>
- <package_version>New</package_version>
- <package_platform>AltStore</package_platform>
- <package_category>New</package_category>
- <package_description>Awesome content for developers and more!</package_description>
- <package_get>https://alt.epicmc.us/ItzBulkDev</package_get>
+ <package_name>EasyTips</package_name>
+ <package_author>@ItzBulkDev</package_author>
+ <package_icon>https://lh6.ggpht.com/lhf4a5TrZgqWFCrI0Gtc1DSc1lAyUky79x6u5omli559osXZPGHbx0y06er28j-AUQ=w300</package_icon>
+ <package_version>v.1.0.1</package_version>
+ <package_platform>PocketMine-MP (API 1.12.0)</package_platform>
+ <package_category>Server Plugin</package_category>
+ <package_description>Sends a tip to the player on Join!</package_description>
+ <package_get>https://github.com/LegacyDevelopers/EasyTips/releases/download/1.0.1/phar_EasyTips-master.7._qMxRIuTN_VkswhB.phar</package_get>
  </item>
 </channel>
 
