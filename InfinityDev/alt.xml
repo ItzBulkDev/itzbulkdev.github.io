@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rss version="2.0">
+
+<channel>
+
+<item>
+
+<!-- Repo Information -->
+<repo_icon>https://pbs.twimg.com/profile_images/620563629067345920/U3hpqmUR_bigger.jpg</repo_icon>
+<repo_name>InfiniteDev</repo_name>
+<repo_description>Providing you with content that is essential if you are an iOS User. iOS SDK & Web Developers should install content from this repo.</repo_description>
+<repo_homepage>http://app.iCydia9.net</repo_homepage>
+<!-- Repo Information End -->
+
+ <package_updated>2015-08-17</package_updated>
+ <package_name>iCydia9</package_name>
+ <package_author>InfiniteDev</package_author>
+ <package_icon>https://pbs.twimg.com/profile_images/620563629067345920/U3hpqmUR_bigger.jpg</package_icon>
+ <package_version>1.3.0</package_version>
+ <package_platform>iOS</package_platform>
+ <package_category>Essentials</package_category>
+ <package_description>Powerful free Cydia Alternative updated every few weeks (ADD TO HOME-SCREEN)</package_description>
+ <package_get>http://app.iCydia9.net</package_get>
+
+</item>
+
+</channel>
+
+</rss>
