@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rss version="2.0">
+
+<channel>
+
+<item>
+
+<!-- Repo Information -->
+<repo_icon>https://epicmc.us/apple-touch-icon.png</repo_icon>
+<repo_name>ItzBulkDev</repo_name>
+<repo_description>Better than your server.</repo_description>
+<repo_homepage>https://epicmc.us</repo_homepage>
+<!-- Repo Information End -->
+
+ <package_updated>2015-08-13</package_updated>
+ <package_name>EPICMC 1vs1</package_name>
+ <package_author>@Hotshot_9930</package_author>
+ <package_icon>https://avatar.redst.one/face/DALTONTASTIC/50</package_icon>
+ <package_version>1.0.2 Public Beta</package_version>
+ <package_platform>PocketMine-MP (API 1.12.0)</package_platform>
+ <package_category>Server Gamemode</package_category>
+ <package_description>A competitive and fast paced 1vs1 gamemode.</package_description>
+ <package_get>https://dl.redst.one/EPICMC/1vs1/Versions/1vs1_1.0.2.zip</package_get>
+
+</item>
+
+</channel>
+
+</rss>
