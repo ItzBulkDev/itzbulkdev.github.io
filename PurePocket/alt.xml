@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rss version="2.0">
+
+<channel>
+
+<item>
+
+<!-- Repo Information -->
+<repo_icon>https://pbs.twimg.com/profile_images/633111487834386432/KNdfJgyr_400x400.jpg</repo_icon>
+<repo_name>PurePocket</repo_name>
+<repo_description>Our hosting utilities available for Customers</repo_description>
+<repo_homepage>http://purepocket.com</repo_homepage>
+<!-- Repo Information End -->
+
+ <package_updated>2015-08-23</package_updated>
+ <package_name>PurePocket Server Management App</package_name>
+ <package_author>@InfiniteFrost</package_author>
+ <package_icon>https://pbs.twimg.com/profile_images/633116516419043329/gbJYirhj_400x400.jpg</package_icon>
+ <package_version>Coming Soon</package_version>
+ <package_platform>iOS</package_platform>
+ <package_category>Server Management</package_category>
+ <package_description>Get quick access to your PurePocket Server!</package_description>
+ <package_get>https://twitter.com/PurePocketHost</package_get>
+
+</item>
+</channel>
+
+</rss>
